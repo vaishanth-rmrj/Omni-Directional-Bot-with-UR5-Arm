@@ -1,4 +1,4 @@
-# Enpm662 Final Project - Omni Directional Bot with UR5 Arm
+# Omni Directional Bot with UR5 Arm
 
 ## Documents:
 1. Link to report, discussions are [here](https://drive.google.com/drive/folders/1Rp32GsWSPNQBrzzu0iJeZsF_Ti1MLDRo?usp=sharing)
