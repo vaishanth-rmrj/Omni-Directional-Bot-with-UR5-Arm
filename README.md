@@ -7,7 +7,7 @@
 ## Setup
  - Clone this repository into your catkin_ws:
     ```
-    git clone https://github.com/aswathselvam/enpm662_final_project.git
+    git clone https://github.com/vaishanth-rmrj/Omni-Directional-Bot-with-UR5-Arm.git
     catkin_make
     source devel/setup.bash
     ```
