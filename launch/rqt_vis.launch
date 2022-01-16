@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name = "my_rqt_dashboard" pkg = "rqt_gui" type = "rqt_gui" respawn = "false" output = "screen" args = "--perspective-file $(find enpm662_final_project)/rqt/default.perspective"/>
+</launch>

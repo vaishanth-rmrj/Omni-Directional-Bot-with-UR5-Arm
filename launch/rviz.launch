@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+   <node name="base_link_pubTF_node" pkg="enpm662_final_project" type="publish_baselinkTF.py" />
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find enpm662_final_project)/rviz/config_file.rviz" />
+
+</launch>

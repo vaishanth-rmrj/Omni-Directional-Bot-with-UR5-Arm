@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/aswath/enpm662/ws/devel/include/**",
+        "/home/aswath/ws_moveit/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/aswath/ws_moveit/src/geometric_shapes/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/aswath/ws_moveit/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/aswath/ws_moveit/src/moveit_visual_tools/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/aswath/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/aswath/enpm662/ws/src/robot_description/include/**",
+        "/home/aswath/enpm662/ws/src/roboticsgroup_gazebo_plugins/include/**",
+        "/home/aswath/ws_moveit/src/rviz_visual_tools/include/**",
+        "/home/aswath/enpm662/ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/aswath/enpm662/ws/src/wsg50-ros-pkg/wsg_50_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
