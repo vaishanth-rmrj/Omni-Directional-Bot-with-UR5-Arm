@@ -1,4 +1,5 @@
 # Omni Directional Bot with UR5 Arm
+A python based project to simulate a mobile manipulator in Gazebo simulation environment. The kinematics for the model was derived manually along with the mobile base and the forward and inverse kinematics was used to control the entire robot. A real world alike agriculture world was created to simulate real world experience.
 
 ## Documents:
 1. Link to report, discussions are [here](https://drive.google.com/drive/folders/1Rp32GsWSPNQBrzzu0iJeZsF_Ti1MLDRo?usp=sharing)
